@@ -1,5 +1,7 @@
 # Great UI
 
+[![skills.sh](https://skills.sh/b/matthieu-pm/great-ui)](https://skills.sh/matthieu-pm/great-ui/great-ui)
+
 A single agent skill for building and polishing interfaces where every small detail compounds.
 
 Great UI faithfully combines:
